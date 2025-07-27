@@ -7,3 +7,6 @@
 [submodule "Cooling-Link Controller/components/lora_proto"]
 	path = Cooling-Link Controller/components/lora_proto
 	url = https://github.com/bbzaffari/LoRa-Protocol-ESP-IDF
+[submodule "Cooling-Link Controller/components/ssd1306"]
+	path = Cooling-Link Controller/components/ssd1306
+	url = https://github.com/bbzaffari/esp-idf-ssd1306-Minimal-Version
