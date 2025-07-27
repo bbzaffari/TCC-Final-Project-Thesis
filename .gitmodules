@@ -10,6 +10,3 @@
 [submodule "Cooling-Link Controller/components/ssd1306"]
 	path = Cooling-Link Controller/components/ssd1306
 	url = https://github.com/bbzaffari/esp-idf-ssd1306-Minimal-Version
-[submodule "Cooling-LinK Controller/components/lora"]
-	path = Cooling-LinK Controller/components/lora
-	url = https://github.com/bbzaffari/lora-phy
