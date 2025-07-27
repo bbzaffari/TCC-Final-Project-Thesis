@@ -1,7 +1,7 @@
 ---
 ---
 > **Disclosure Note**  
->  This document includes descriptions of the Cooling Link System,  and a sensing currently under patent review. In compliance with institutional and legal requirements, certain implementation details and architectural diagrams have been intentionally omitted or generalized. The full technical disclosure will be made available upon completion of the patent filing.
+>  This document contains descriptions of the Cooling Link System and MC.C., which are currently under patent review.  In compliance with institutional and legal requirements, certain implementation details and architectural diagrams have been intentionally omitted or generalized. The full technical disclosure will be made available upon completion of the patent filing.
 
 ---
 
