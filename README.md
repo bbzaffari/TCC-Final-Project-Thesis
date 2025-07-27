@@ -1,2 +1,25 @@
-# TCC-Final-Project-Thesis
-About Cooling Link is a modular system for precise humidity and temperature monitoring and control in cold‐storage ecosystem . It uses ************ ********* built on ESP32, LoRa, and MQTT to deliver real‑time, reliable data at just R$ 160 per module versus R$ 3 000 for commercial solutions, ensuring scalable, cost‑effective climate management.
+# **Cooling Link** – *A Dependable Wireless Monitoring and Control System for High‑Humidity Cold Storage Environments*
+
+Maintaining optimal humidity and temperature levels in cold storage rooms is essential for preserving the shelf life and quality of perishable goods. However, in countries like Brazil—where fruit warehouses often operate dynamically with frequent door openings and high ambient moisture—conventional monitoring solutions fall short. These environments demand robust, cost-effective, and modular systems that adapt to real-world usage patterns without compromising reliability.
+
+This work presents the development of a scalable monitoring system called Cooling Link, designed to address this issue through a practical and cost-effective approach.
+
+
+> **Disclosure Note**  
+>  This document includes descriptions of the Cooling Link System,  and a sensing currently under patent review. In compliance with institutional and legal requirements, certain implementation details and architectural diagrams have been intentionally omitted or generalized. The full technical disclosure will be made available upon completion of the patent filing.
+---
+---
+
+
+
+---
+---
+## 📜 Intellectual Property Notice
+
+© 2025 Bruno Bavaresco Zaffari. All Rights Reserved.
+
+
+
+---
+---
+---
