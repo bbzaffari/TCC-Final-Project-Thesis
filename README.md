@@ -29,9 +29,9 @@ This work presents the development of a scalable monitoring system called Coolin
 ---
 
 
-##### Related Modules
+##### Created Drivers
 
-The following external modules were developed and integrated as part of this project to provide hardware abstraction, sensor interfacing, and communication protocols: 
+The following components were developed and integrated as part of this project to provide hardware abstraction, sensor interfacing, and communication protocols: 
 
 * [`OneWire`](https://github.com/bbzaffari/OneWire) – OneWire bus implementation for ESP-IDF.
 * [`DS18B20-ESP-IDF`](https://github.com/bbzaffari/DS18B20-ESP-IDF) – Driver for the DS18B20 temperature sensor.
@@ -40,9 +40,7 @@ The following external modules were developed and integrated as part of this pro
 * [`LoRa-Protocol-ESP-IDF`](https://github.com/bbzaffari/LoRa-Protocol-ESP-IDF) – Custom lightweight protocol built over LoRa (PHY) for structured device communication.
 
 
-##### Adapted modules (credited)
-
-The following modules were adapted or refactored based on work from other developers. Full credits are given in their respective repositories:
+##### Adapted Drivers
 
 * [`lora-phy`](https://github.com/bbzaffari/lora-phy) – LoRa (PHY layer) – from nopnop.
 * [`esp-idf-ssd1306-Minimal-Version`](https://github.com/bbzaffari/esp-idf-ssd1306-Minimal-Version) – Minimal OLED SSD1306 driver adapted for performance and memory safety  – from nopnop.
