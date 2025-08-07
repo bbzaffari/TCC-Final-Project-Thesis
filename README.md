@@ -23,8 +23,9 @@ Each of these modules was designed to be reusable, ESP-IDF compliant, and tailor
 
 The following modules were adapted or refactored based on work from other developers. Full credits are given in their respective repositories:
 
-* [`esp-idf-ssd1306-Minimal-Version`](https://github.com/bbzaffari/esp-idf-ssd1306-Minimal-Version) – Minimal OLED SSD1306 driver adapted for performance and memory safety  – from nopnop.
 * [`lora-phy`](https://github.com/bbzaffari/lora-phy) – LoRa (PHY layer) – from nopnop.
+* [`esp-idf-ssd1306-Minimal-Version`](https://github.com/bbzaffari/esp-idf-ssd1306-Minimal-Version) – Minimal OLED SSD1306 driver adapted for performance and memory safety  – from nopnop.
+
 
 These adapted components were streamlined and modified to ensure compatibility with FreeRTOS tasks, mutex-based access, and ISR-safe design — always with respect to original authorship.
 
