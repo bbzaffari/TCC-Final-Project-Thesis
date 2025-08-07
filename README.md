@@ -18,7 +18,7 @@ Maintaining optimal humidity and temperature levels in cold storage rooms is ess
 This work presents the development of a scalable monitoring system called Cooling Link, designed to address this issue through a practical and cost-effective approach.
 
 ---
-## 📜 Intellectual Property Notice
+## Intellectual Property Notice
 
 © 2025 Bruno Bavaresco Zaffari. All Rights Reserved.
 
