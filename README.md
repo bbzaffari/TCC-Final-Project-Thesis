@@ -1,6 +1,6 @@
 ---
 ---
-# **Cooling Link** – *A Dependable Wireless Monitoring and Control Ecosystem for High‑Humidity Cold Storage Environments*
+# **Cooling–Link** – *A Dependable Wireless Monitoring and Control Ecosystem for Cold Storage Environments*
 
 ---
 > **Disclosure Note**  
