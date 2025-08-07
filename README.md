@@ -38,7 +38,7 @@ These modules were entirely created, implemented, and documented by me as essent
 * [`DS18B20-ESP-IDF`](https://github.com/bbzaffari/DS18B20-ESP-IDF) – Driver for the DS18B20 temperature sensor.
 * [`SHT-30-31-ESP-IDF`](https://github.com/bbzaffari/SHT-30-31-ESP-IDF) – ESP-IDF driver for Sensirion SHT30/SHT31 sensors.
 * [`HTU-31D-ESP-IDF-C`](https://github.com/bbzaffari/HTU-31D-ESP-IDF-C) – Low-level driver for the HTU31D humidity and temperature sensor.
-* [`LoRa-Protocol-ESP-IDF`](https://github.com/bbzaffari/LoRa-Protocol-ESP-IDF) – Custom lightweight protocol built over LoRa (PHY) for structured device communication.
+* [`LoRa-Protocol-ESP-IDF`](https://github.com/bbzaffari/LoRa-Protocol-ESP-IDF) – Custom protocol built over LoRa (PHY) for structured device communication.
 
 No license required. Use, modify, and share freely — **no attribution needed.**
 
