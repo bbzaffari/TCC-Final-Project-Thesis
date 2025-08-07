@@ -1,5 +1,8 @@
 ---
 ---
+# **Cooling Link** – *A Dependable Wireless Monitoring and Control Ecosystem for High‑Humidity Cold Storage Environments*
+
+---
 > **Disclosure Note**  
 >  This document contains descriptions of the Cooling Link Ecosystem and MC.C., which are currently under patent review.  In compliance with institutional and legal requirements, certain implementation details and architectural diagrams have been intentionally omitted or generalized. The full technical disclosure will be made available upon completion of the patent filing.
 ---
@@ -24,15 +27,16 @@ The following modules were adapted or refactored based on work from other develo
 * [`lora-phy`](https://github.com/bbzaffari/lora-phy) – LoRa (PHY layer) – from nopnop.
 
 These adapted components were streamlined and modified to ensure compatibility with FreeRTOS tasks, mutex-based access, and ISR-safe design — always with respect to original authorship.
+
 ---
 
-# **Cooling Link** – *A Dependable Wireless Monitoring and Control Ecosystem for High‑Humidity Cold Storage Environments*
+# Overview
+
 
 Maintaining optimal humidity and temperature levels in cold storage rooms is essential for preserving the shelf life and quality of perishable goods. However, in countries like Brazil—where fruit warehouses often operate dynamically with frequent door openings and high ambient moisture—conventional monitoring solutions fall short. These environments demand robust, cost-effective, and modular systems that adapt to real-world usage patterns without compromising reliability.
 
 This work presents the development of a scalable monitoring system called Cooling Link, designed to address this issue through a practical and cost-effective approach.
 
----
 ---
 ## 📜 Intellectual Property Notice
 
