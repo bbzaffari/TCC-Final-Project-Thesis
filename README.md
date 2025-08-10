@@ -40,7 +40,7 @@ These modules were entirely created, implemented, and documented by me as essent
 * [`HTU-31D-ESP-IDF-C`](https://github.com/bbzaffari/HTU-31D-ESP-IDF-C) – Low-level driver for the HTU31D humidity and temperature sensor.
 
 No license required, for those above. Use, modify, and share freely — **no attribution needed.**
-
+* [`Controller`](https://github.com/bbzaffari/Cooling-Link-Controller) – Controller for the Cooling-Link handles LoRa communication, and control logic on ESP32.
 * [`LoRa-Protocol-ESP-IDF`](https://github.com/bbzaffari/LoRa-Protocol-ESP-IDF) – Custom protocol built over LoRa (PHY) for structured device communication.
 
 
