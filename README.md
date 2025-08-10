@@ -39,7 +39,7 @@ These modules were entirely created, implemented, and documented by me as essent
 * [`SHT-30-31-ESP-IDF`](https://github.com/bbzaffari/SHT-30-31-ESP-IDF) – ESP-IDF driver for Sensirion SHT30/SHT31 sensors.
 * [`HTU-31D-ESP-IDF-C`](https://github.com/bbzaffari/HTU-31D-ESP-IDF-C) – Low-level driver for the HTU31D humidity and temperature sensor.
 
-No license required. Use, modify, and share freely — **no attribution needed.**
+No license required, for those above. Use, modify, and share freely — **no attribution needed.**
 
 * [`LoRa-Protocol-ESP-IDF`](https://github.com/bbzaffari/LoRa-Protocol-ESP-IDF) – Custom protocol built over LoRa (PHY) for structured device communication.
 
