@@ -1,0 +1,3 @@
+[submodule "Cooling-Link-Controller"]
+	path = Cooling-Link-Controller
+	url = https://github.com/bbzaffari/Cooling-Link-Controller
