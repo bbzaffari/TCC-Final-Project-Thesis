@@ -46,6 +46,6 @@ No license required, for those above. Use, modify, and share freely — **no att
 
 ##### Adapted Drivers
 
-* [`lora-phy`](https://github.com/bbzaffari/lora-phy) – LoRa (PHY layer) – from @nopnop2002.
+* [`lora-phy`](https://github.com/bbzaffari/lora-phy) – LoRa (PHY) – from @nopnop2002.
 * [`esp-idf-ssd1306-Minimal-Version`](https://github.com/bbzaffari/esp-idf-ssd1306-Minimal-Version) – Minimal OLED SSD1306 driver adapted for performance and memory safety  – from @nopnop2002.
 
