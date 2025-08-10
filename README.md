@@ -43,6 +43,9 @@ No license required, for those above. Use, modify, and share freely — **no att
 
 * [`LoRa-Protocol-ESP-IDF`](https://github.com/bbzaffari/LoRa-Protocol-ESP-IDF) – Custom protocol built over LoRa (PHY) for structured device communication.
 
+ ​ 
+---
+
 ##### Adapted Drivers
 
 * [`lora-phy`](https://github.com/bbzaffari/lora-phy) – LoRa (PHY layer) – from nopnop.
